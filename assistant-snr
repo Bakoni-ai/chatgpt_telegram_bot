@@ -1,0 +1,5 @@
+Name	assistant-snr 
+Runtime	Python 3
+Build Command	pip install -r requirements.txt
+Start Command	python main.py
+Branch	main
